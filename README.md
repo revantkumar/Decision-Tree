@@ -28,7 +28,7 @@ For section, I have used continuous splitting of the data. However, I have teste
 So, my results are as follows:
 
 1. ID3 Algorithm with continuous splitting (non - random) = 0.8037 or 80.37%
-2. ID3 Algorithm with continuous splitting (random shuffling) = 0.8129 or 81.39%
+2. ID3 Algorithm with continuous splitting (random shuffling) = 0.8129 or 81.29%
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
